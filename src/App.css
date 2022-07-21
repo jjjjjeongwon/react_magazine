@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@600&family=Gowun+Batang&display=swap');
+
+.App{
+  font-family: 'Edu NSW ACT Foundation', cursive;
+  font-family: 'Gowun Batang', serif;
+}
